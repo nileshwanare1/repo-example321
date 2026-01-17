@@ -1,3 +1,3 @@
-welcome to new repo
+welcome to new repo,hello Coders.
 
 Thhis is second commit.
